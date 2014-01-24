@@ -6,11 +6,6 @@ angularEg.controller('myContacts', function($scope){
   //my contacts listed as a JavaScript array of objects
   $scope.contacts = [
   		{
-  			name: "Arian Celina",
-  			country: "Republic of Kosova",
-  			web: "http://arian-celina.com"
-  		},
-  		{
   			name: "Scott Hanselman",
   			country: "USA",
   			web: "http://www.hanselman.com/"
